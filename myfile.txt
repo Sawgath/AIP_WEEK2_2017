@@ -1,2 +1,3 @@
 My name is Sawgath Jahan.I had created a git project for week 2 assessment.But i go some error when i try to push it in origin master.
 2nd change, it is my first time to push anything in git project through console.i am using linux operating system.
+Anything is OK!
